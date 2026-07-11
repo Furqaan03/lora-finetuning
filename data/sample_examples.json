@@ -1,0 +1,7 @@
+[
+  {"instruction": "Classify this legal clause type.", "input": "This Agreement shall terminate upon 30 days written notice by either party.", "output": "termination"},
+  {"instruction": "Classify this legal clause type.", "input": "The Receiving Party shall hold all Confidential Information in strict confidence.", "output": "confidentiality"},
+  {"instruction": "Classify this legal clause type.", "input": "In no event shall either party be liable for indirect or consequential damages.", "output": "limitation_of_liability"},
+  {"instruction": "Classify this legal clause type.", "input": "This Agreement shall be governed by the laws of the State of Delaware.", "output": "governing_law"},
+  {"instruction": "Classify this legal clause type.", "input": "Either party may terminate immediately upon material breach.", "output": "termination"}
+]

@@ -1,0 +1,7 @@
+# Data prep, eval harness, config — everything except actual GPU training.
+# The full test suite runs on these.
+pydantic>=2.7.0
+pyyaml>=6.0.1
+openai>=1.50.0
+python-dotenv>=1.0.1
+pytest>=8.2.0
